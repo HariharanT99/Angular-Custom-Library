@@ -1,0 +1,13 @@
+.header-warapper{
+    background-color: inherit;
+}
+
+.user-name{
+    color: #1F1F1F;
+}
+
+.btn-logout{
+    padding: 3px 5px;
+    background-color: #EB2230;
+    color: #FBE8EA;
+}
